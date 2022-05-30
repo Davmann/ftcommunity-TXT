@@ -14,7 +14,7 @@ nav-pos: 1
 
 1. Anschließend musst du den Bootloader freischalten. Mit der Standard-Firmware 4.4.3 aktivierst du dazu unter _Einstellungen / Sicherheit_ den Schalter _Boot SD_. Falls du noch die Standard-Firmware 4.2.4 benutzt, folge den Anweisungen in der  [Anleitung von Fischertechnik](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/txt-controller/documents/freischaltung_des_bootloaders_deutsch.ashx).
 
-1. Auf deinem Computer lädst du dann hier [https://github.com/ftCommunity/ftcommunity-TXT/releases/latest](https://github.com/ftCommunity/ftcommunity-TXT/releases/latest) das ZIP-Archiv mit der Community-Firmware herunter (_aktuell ist die Datei "ftcommunity-txt-0.9.5.zip"_) und speicherst die Datei ab.
+1. Auf deinem Computer lädst du dann hier [https://github.com/ftCommunity/ftcommunity-TXT/releases/latest](https://github.com/ftCommunity/ftcommunity-TXT/releases/latest) das ZIP-Archiv mit der Community-Firmware herunter (_aktuell ist die Datei "ftcommunity-txt-0.9.6.zip"_) und speicherst die Datei ab.
 
 1. Du packst das Archiv aus (mit einem Zip-Programm auf deinem Computer) und kopierst die drei enthaltenen Dateien auf eine FAT32 formatierte MicroSD-Karte.
 
